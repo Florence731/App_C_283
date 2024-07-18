@@ -1,5 +1,5 @@
 {
-    "AutomatedSetup": true,
+    "AutomatedSetup": false,
     "PhotoLibraryUsageDescription": "Grant app access to your Photo Gallery for image uploads and enhanced customization.",
     "PhotoLibraryAdditionsUsageDescription": "Grant app access to your Photo Gallery for image uploads and enhanced customization.",
     "DontAskLimitedPhotosPermissionAutomaticallyOnIos14": true
