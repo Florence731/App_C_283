@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCkF9RiHT02b0WLdzcgGYd-phU14WcTJ7w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>708030146816</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.federecolog.app</string>
+	<key>PROJECT_ID</key>
+	<string>c283-6504407386</string>
+	<key>STORAGE_BUCKET</key>
+	<string>c283-6504407386.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:708030146816:ios:ba592dfdf36c77684a2be5</string>
+</dict>
+</plist>
