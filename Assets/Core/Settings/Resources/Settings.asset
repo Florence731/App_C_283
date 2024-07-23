@@ -13,9 +13,9 @@ MonoBehaviour:
   m_Name: Settings
   m_EditorClassIdentifier: 
   firebaseRemoteKey: Federation
-  landingUrl: "\uF746https://batradas.carrd.co/"
+  landingUrl: https://batradas.carrd.co/
   additionalUrl: https://orllimited.com
   oneSignalAppID: 4b4a2f6f-04ae-46cd-a06e-c1d340d06085
   privacyPoliceUrl: https://batradas.carrd.co/#privacy
   termsOfUseUrl: https://batradas.carrd.co/#terms
-  isDebug: 0
+  isDebug: 1
